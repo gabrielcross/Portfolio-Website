@@ -1,0 +1,51 @@
+body {
+font-family: 'fredoka-one', sans-serif;
+color: #2d3c49
+}
+
+header {
+    margin-top: 30px;
+}
+
+.text-thin {
+    font-weight: 100;
+    
+}
+
+.text-muted {
+    color: #02b3e4;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.title-super {
+    font-size: 60px;
+    margin-top: 40px;
+}
+
+.title-logo {
+    border-width: auto;
+}
+
+.lineweight {
+    border-width: 7px;
+}
+
+h1 {
+    text-align: right;
+    text-transform: uppercase
+}
+h3, h4 {
+    text-transform: uppercase;
+    color: #02b3e4;
+}
+
+img {
+    border-radius: 10px;
+}
+
+.drop-shadow {
+     box-shadow: 0 0 5px 2px #7d97ad;
+    transition: all 0.4s  cubic-bezier(0.88,-0.99, 0, 1.81);
+    cursor: default;
+}
